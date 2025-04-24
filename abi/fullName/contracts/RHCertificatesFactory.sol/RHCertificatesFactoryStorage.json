@@ -1,0 +1,8 @@
+[
+  "event LoanCreated(address indexed account, address loanFactory)",
+  "function FACTORY_ADMIN_ROLE() view returns (bytes32)",
+  "function certificatesCounter() view returns (uint256)",
+  "function deployedCertificates(uint256) view returns (address)",
+  "function isCertificateDeployed(address) view returns (bool)",
+  "function loansLogic() view returns (address)"
+]

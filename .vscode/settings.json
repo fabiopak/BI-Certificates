@@ -1,0 +1,6 @@
+{
+    "solidity.defaultCompiler": "localFile",
+    "slither.solcPath": "",
+    "slither.hiddenDetectors": [],
+    "go.testExplorer.showOutput": false
+}

@@ -1,0 +1,21 @@
+.gitmodules
+node_modules/
+.env
+build/
+package-lock.json
+*.txt
+coverage/
+coverage.json
+
+node_modules
+.env
+coverage
+.coverage*
+.DS_Store
+coverage.json
+typechain
+flatten/
+
+#Hardhat files
+cache
+artifacts

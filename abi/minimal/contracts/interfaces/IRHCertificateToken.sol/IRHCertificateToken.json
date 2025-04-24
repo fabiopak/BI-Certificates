@@ -1,0 +1,10 @@
+[
+  "event CustomMintWithLogs(address,uint256,uint256,tuple(address,bytes32,uint256))",
+  "event DistributeAmount(address,uint256)",
+  "event DocHashAdded(uint256 indexed,string,bytes32)",
+  "event MintAllowance(bool,uint256)",
+  "event Paused(address)",
+  "event TokenExpired(uint256)",
+  "event Unpaused(address)",
+  "event WDAmount(address,uint256)"
+]

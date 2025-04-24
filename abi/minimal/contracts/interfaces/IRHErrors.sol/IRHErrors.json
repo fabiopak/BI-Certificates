@@ -1,0 +1,14 @@
+[
+  "error invalidAddress()",
+  "error invalidAmount()",
+  "error invalidArrayLength()",
+  "error invalidPrice()",
+  "error mintNotAllowed()",
+  "error notEnoughBalance()",
+  "error notPausedToken()",
+  "error notTransferrable()",
+  "error tokenAlreadyPaused()",
+  "error tokenCannotExpireYet()",
+  "error tokenIsExpired()",
+  "error tokenNotExpiredYet()"
+]

@@ -1,0 +1,3 @@
+[
+  "event LoanCreated(address indexed account, address loanFactory)"
+]

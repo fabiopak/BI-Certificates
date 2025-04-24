@@ -1,0 +1,62 @@
+[
+  {
+    "inputs": [],
+    "name": "invalidAddress",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "invalidAmount",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "invalidArrayLength",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "invalidPrice",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "mintNotAllowed",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "notEnoughBalance",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "notPausedToken",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "notTransferrable",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "tokenAlreadyPaused",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "tokenCannotExpireYet",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "tokenIsExpired",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "tokenNotExpiredYet",
+    "type": "error"
+  }
+]

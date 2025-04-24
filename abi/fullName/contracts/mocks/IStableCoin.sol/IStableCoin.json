@@ -1,0 +1,6 @@
+[
+  "function batchForcedBurnCoins(address[] account, uint256[] amount)",
+  "function forcedBurnCoins(address account, uint256 amount)",
+  "function mintCoins(address to, uint256 amount)",
+  "function transferAddresses(address addr) view returns (bool)"
+]
